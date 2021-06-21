@@ -4,11 +4,11 @@
 - 💼 Изучаю React JS, TypeScript, Node JS, Express.js, Next JS
 - 📫 Моя почта: vladislav.zuev.da@gmail.com
 - 📱 Мой телеграмм: https://t.me/coco_jamb0
-- 📠 Мой linkedin: <a href="https://www.linkedin.com/in/vladislav-zuev-7ab218210/">
+  <a href="https://www.linkedin.com/in/vladislav-zuev-7ab218210/">
   <img align="left" alt="Vladislav Zuev | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
 
-![CodeWars](https://www.codewars.com/users/elia777/badges/large)
+![CodeWars](https://www.codewars.com/users/elia777/badges/small)
 
 ### Стэк технологий который я использовал
 
