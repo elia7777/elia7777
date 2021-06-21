@@ -5,9 +5,11 @@
 - 📫 Моя почта: vladislav.zuev.da@gmail.com
 - 📱 Мой телеграмм: https://t.me/coco_jamb0
   <br />
+  <br />
   <a href="https://www.linkedin.com/in/vladislav-zuev-7ab218210/">
   <img align="left" alt="Vladislav Zuev | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
+  <br />
 
 ![CodeWars](https://www.codewars.com/users/elia777/badges/small)
 
