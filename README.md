@@ -1,9 +1,5 @@
-### Привет 👋 меня зовут Влад и я Fullstack-разработчик
 
-- 🔭 Я в поиске интересных предложений
-- 💼 Изучаю React JS, TypeScript, Node JS, Express.js, Next JS
-- 📫 Моя почта: vladislav.zuev.da@gmail.com
-- 📱 Мой телеграмм: https://t.me/coco_jamb0
+
   <!-- <br />
   <br />
   <a href="https://www.linkedin.com/in/vladislav-zuev-7ab218210/">
